@@ -79,8 +79,13 @@ We used **SHAP (SHapley Additive exPlanations)** to identify key protein bins co
 
 - **Erythromycin**:
   - 4508–4513 Da and 5438–5446 Da positively correlated with resistance
+    
+    <img src="explicability/shap_tree_erytro.png" alt="Screenshot 1" width="50%"/>
+    
 - **Ciprofloxacin**:
   - 6554–6556 Da, 4997–5010 Da among most influential
+ 
+    <img src="explicability/shap_tree_cipro.png" alt="Screenshot 1" width="50%"/>
 
 ---
 
